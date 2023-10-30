@@ -14,7 +14,7 @@ It is based on OTFv2 (ory2) with many unique features.
 4. Supports conjuncts and Akhanda variants. 
 5. Supports Matra conjuncts.
 
-## How to Contribution
+## Contribute to this project.
 1. Fork the repository.
 2. Modify the font, as per what you see wrong.
 3. Generate a pull request (I will review it, then make changes to main branch).
