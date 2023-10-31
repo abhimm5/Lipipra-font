@@ -2,7 +2,10 @@
 .appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
-"/ka_ka-oriya/ka_tta-oriya/ka_ta-oriya/ka_ssa-oriya/ka_sa-oriya/ga_ga-oriya/ga_da-oriya/ga_dha-oriya/nga_ka-oriya/nga_kha-oriya/nga_ga-oriya/nga_gha-oriya/ca_ca-oriya/ca_cha-oriya/ca_nya-oriya/ja_ja-oriya/ja_jha-oriya/ja_nya-oriya/nya_ca-oriya/nya_cha-oriya/nya_ja-oriya/nya_jha-oriya/tta_tta-oriya/nna_tta-oriya/nna_ttha-oriya/nna_dda-oriya/nna_nna-oriya/ta_ka-oriya/ta_ta-oriya  /ta_tha-oriya/ta_pa-oriya/ta_sa-oriya/da_ga-oriya/da_gha-oriya/da_da-oriya/da_dha-oriya/da_ba-oriya/da_bha-oriya/da_ya-oriya/na_ta-oriya/na_tha-oriya/na_da-oriya/na_dha-oriya/pa_ta-oriya/pa_pa-oriya/pa_sa-oriya/ba_ja-oriya/ba_da-oriya/ba_dha-oriya/ba_ba-oriya/ma_pa-oriya/ma_pha-oriya/ma_ba-oriya/ma_bha-oriya ଡ"
+"/ka_ka-oriya/ka_tta-oriya/ka_ta-oriya/ka_ssa-oriya/ka_sa-oriya/ga_ga-oriya/ga_da-oriya/ga_dha-oriya/nga_ka-oriya/nga_kha-oriya/nga_ga-oriya/nga_gha-oriya/ca_ca-oriya/ca_cha-oriya/ca_nya-oriya/ja_ja-oriya/ja_jha-oriya/ja_nya-oriya/nya_ca-oriya/nya_cha-oriya/nya_ja-oriya/nya_jha-oriya/tta_tta-oriya/nna_tta-oriya/nna_ttha-oriya/nna_dda-oriya/nna_nna-oriya/ta_ka-oriya/ta_ta-oriya  /ta_tha-oriya/ta_pa-oriya/ta_sa-oriya/da_ga-oriya/da_gha-oriya/da_da-oriya/da_dha-oriya/da_ba-oriya/da_bha-oriya/da_ya-oriya/na_ta-oriya/na_tha-oriya/na_da-oriya/na_dha-oriya/pa_ta-oriya/pa_pa-oriya/pa_sa-oriya/ba_ja-oriya/ba_da-oriya/ba_dha-oriya/ba_ba-oriya/ma_pa-oriya/ma_pha-oriya/ma_ba-oriya/ma_bha-oriya ଡ",
+"ହ",
+"ଜ",
+"ଗ"
 );
 axes = (
 {
@@ -9179,7 +9182,7 @@ width = 600;
 },
 {
 glyphname = "ga-oriya";
-lastChange = "2023-10-31 05:27:43 +0000";
+lastChange = "2023-10-31 13:53:56 +0000";
 layers = (
 {
 anchors = (
@@ -9237,35 +9240,35 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(353,0,o),
-(440,87,o),
-(440,194,cs),
-(440,302,o),
-(353,389,o),
-(245,389,cs),
-(138,389,o),
-(51,302,o),
-(51,194,cs),
-(51,87,o),
-(138,0,o),
-(245,0,cs)
+(352,-1,o),
+(439,86,o),
+(439,193,cs),
+(439,301,o),
+(352,388,o),
+(244,388,cs),
+(137,388,o),
+(50,301,o),
+(50,193,cs),
+(50,86,o),
+(137,-1,o),
+(244,-1,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(181,78,o),
-(129,130,o),
-(129,194,cs),
-(129,259,o),
-(181,311,o),
-(245,311,cs),
-(310,311,o),
-(362,259,o),
-(362,194,cs),
-(362,130,o),
-(310,78,o),
-(245,78,cs)
+(180,77,o),
+(128,129,o),
+(128,193,cs),
+(128,258,o),
+(180,310,o),
+(244,310,cs),
+(309,310,o),
+(361,258,o),
+(361,193,cs),
+(361,129,o),
+(309,77,o),
+(244,77,cs)
 );
 },
 {
@@ -9281,10 +9284,10 @@ nodes = (
 closed = 1;
 nodes = (
 (244,388,o),
-(361,388,o),
-(361,388,cs),
-(361,388,o),
-(309,388,o),
+(241,388,o),
+(241,388,cs),
+(241,388,o),
+(249,388,o),
 (244,388,cs),
 (180,388,o),
 (128,440,o),
@@ -9305,10 +9308,10 @@ nodes = (
 (50,397,o),
 (137,310,o),
 (244,310,cs),
-(352,310,o),
-(361,310,o),
-(361,310,cs),
-(361,310,o),
+(249,310,o),
+(241,310,o),
+(241,310,cs),
+(241,310,o),
 (244,310,o),
 (244,310,c),
 (244,388,l)
@@ -10610,7 +10613,7 @@ width = 600;
 },
 {
 glyphname = "ja-oriya";
-lastChange = "2023-10-31 05:27:50 +0000";
+lastChange = "2023-10-31 13:52:49 +0000";
 layers = (
 {
 anchors = (
@@ -10732,17 +10735,17 @@ nodes = (
 (670,613,o),
 (583,700,o),
 (476,700,cs),
-(168,700,o),
-(159,700,o),
-(159,700,cs),
-(159,700,o),
+(328,700,o),
+(319,700,o),
+(319,700,cs),
+(319,700,o),
 (296,700,o),
 (296,700,c),
 (296,622,l),
 (296,622,o),
-(159,622,o),
-(159,622,cs),
-(159,622,o),
+(319,622,o),
+(319,622,cs),
+(319,622,o),
 (411,622,o),
 (476,622,cs),
 (540,622,o),
@@ -16686,7 +16689,7 @@ width = 600;
 },
 {
 glyphname = "ha-oriya";
-lastChange = "2023-10-31 05:28:14 +0000";
+lastChange = "2023-10-31 13:40:39 +0000";
 layers = (
 {
 anchors = (
@@ -16700,7 +16703,7 @@ pos = (496,-20);
 },
 {
 name = bindu;
-pos = (351,-96);
+pos = (341,-86);
 },
 {
 name = bottom;
@@ -16720,7 +16723,7 @@ pos = (566,703);
 },
 {
 name = nukta;
-pos = (351,-50);
+pos = (343,-30);
 },
 {
 name = reph2;
@@ -16732,7 +16735,7 @@ pos = (611,-258);
 },
 {
 name = ru;
-pos = (351,-7);
+pos = (342,-60);
 },
 {
 name = top;
@@ -16815,10 +16818,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(71,85,l),
-(71,0,l),
-(396,-128,l),
-(429,-55,l)
+(61,25,l),
+(61,-60,l),
+(206,-138,l),
+(239,-65,l)
 );
 },
 {
@@ -16827,8 +16830,8 @@ nodes = (
 (199,211,o),
 (177,228,o),
 (154,245,c),
-(71,85,l),
-(141,34,l),
+(61,25,l),
+(131,-26,l),
 (222,194,l)
 );
 }
