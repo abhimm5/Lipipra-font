@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Tester</title>
+    <style>
+        @font-face {
+            font-family: 'CustomFont';
+            src: url('lipipragatuchhi-Regular.otf') format('opentype');
+        }
+
+        body {
+            font-family: 'CustomFont', Arial, sans-serif;
+            text-align: center;
+        }
+
+        #font-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #text-input {
+            margin: 20px 0;
+            width: 80%;
+            padding: 10px;
+            font-size: 18px;
+        }
+
+        #font-size-selector {
+            margin: 20px 0;
+            width: 80%;
+            padding: 10px;
+            font-size: 18px;
+        }
+
+        #preview {
+            margin: 20px 0;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="font-container">
+        <input type="text" id="text-input" placeholder="Enter text to preview" oninput="updatePreview()">
+        <label for="font-size-selector">Font Size: <span id="font-size-value">20px</span></label>
+        <input type="range" id="font-size-selector" min="10" max="72" step="1" value="20" oninput="changeFontSize()">
+        <div id="preview">This is a font preview.</div>
+    </div>
+
+    <script>
+        function updatePreview() {
+            const text = document.getElementById("text-input").value;
+            document.getElementById("preview").textContent = text;
+        }
+
+        function changeFontSize() {
+            const fontSizeValue = document.getElementById("font-size-value");
+            const fontSize = document.getElementById("font-size-selector").value + "px";
+            fontSizeValue.textContent = fontSize;
+            document.getElementById("preview").style.fontSize = fontSize;
+        }
+    </script>
+</body>
+</html>
