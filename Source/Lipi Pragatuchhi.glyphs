@@ -2,11 +2,7 @@
 .appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
-"/ka_ka-oriya/ka_tta-oriya/ka_ta-oriya/ka_ssa-oriya/ka_sa-oriya/ga_ga-oriya/ga_da-oriya/ga_dha-oriya/nga_ka-oriya/nga_kha-oriya/nga_ga-oriya/nga_gha-oriya/ca_ca-oriya/ca_cha-oriya/ca_nya-oriya/ja_ja-oriya/ja_jha-oriya/ja_nya-oriya/nya_ca-oriya/nya_cha-oriya/nya_ja-oriya/nya_jha-oriya/tta_tta-oriya/nna_tta-oriya/nna_ttha-oriya/nna_dda-oriya/nna_nna-oriya/ta_ka-oriya/ta_ta-oriya  /ta_tha-oriya/ta_pa-oriya/ta_sa-oriya/da_ga-oriya/da_gha-oriya/da_da-oriya/da_dha-oriya/da_ba-oriya/da_bha-oriya/da_ya-oriya/na_ta-oriya/na_tha-oriya/na_da-oriya/na_dha-oriya/pa_ta-oriya/pa_pa-oriya/pa_sa-oriya/ba_ja-oriya/ba_da-oriya/ba_dha-oriya/ba_ba-oriya/ma_pa-oriya/ma_pha-oriya/ma_ba-oriya/ma_bha-oriya ଡ",
-"/ka_iMatra-oriya/ka_rVocalicMatra-oriya/kha_iMatra-oriya/nga_iMatra-oriya/ca_aaMatra-oriya/ca_oMatra-oriya/ca_iMatra-oriya/ca_uMatra-oriya/cha_oMatra-oriya/cha_iMatra-oriya/ja_iMatra-oriya/dda_iMatra-oriya/ta_iMatra-oriya/ta_uMatra-oriya/ta_rVocalicMatra-oriya ଥ/tha_iMatra-oriya/da_iMatra-oriya/dha_iMatra-oriya/na_iMatra-oriya/na_rVocalicMatra-oriya/ba_iMatra-oriya/ba_uMatra-oriya/ba_rVocalicMatra-oriya/bha_aaMatra-oriya/bha_iMatra-oriya/bha_uMatra-oriya/bha_rVocalicMatra-oriya/ra_aaMatra-oriya/ra_iiMatra-oriya/ra_oMatra-oriya/ra_iMatra-oriya/ra_uMatra-oriya/la_aaMatra-oriya/la_iiMatra-oriya/la_oMatra-oriya/la_iMatra-oriya/lla_iMatra-oriya/rra_iMatra-oriya/bha_uMatra-oriya.001",
-"/va-oriya.below",
-"/ba-oriya.below",
-"/kha-oriya.below/ga-oriya.below/gha-oriya.below/nga-oriya.below/ca-oriya.below/cha-oriya.below/ttha-oriya.below/ja-oriya.below/jha-oriya.below/ddha-oriya.below/tta-oriya.below/dda-oriya.below/nna-oriya.below/ta-oriya.below/tha-oriya.below/da-oriya.below/dha-oriya.below/na-oriya.below/pa-oriya.below/pha-oriya.below/ba-oriya.below/bha-oriya.below/ma-oriya.below"
+"/ka_ka-oriya/ka_tta-oriya/ka_ta-oriya/ka_ssa-oriya/ka_sa-oriya/ga_ga-oriya/ga_da-oriya/ga_dha-oriya/nga_ka-oriya/nga_kha-oriya/nga_ga-oriya/nga_gha-oriya/ca_ca-oriya/ca_cha-oriya/ca_nya-oriya/ja_ja-oriya/ja_jha-oriya/ja_nya-oriya/nya_ca-oriya/nya_cha-oriya/nya_ja-oriya/nya_jha-oriya/tta_tta-oriya/nna_tta-oriya/nna_ttha-oriya/nna_dda-oriya/nna_nna-oriya/ta_ka-oriya/ta_ta-oriya  /ta_tha-oriya/ta_pa-oriya/ta_sa-oriya/da_ga-oriya/da_gha-oriya/da_da-oriya/da_dha-oriya/da_ba-oriya/da_bha-oriya/da_ya-oriya/na_ta-oriya/na_tha-oriya/na_da-oriya/na_dha-oriya/pa_ta-oriya/pa_pa-oriya/pa_sa-oriya/ba_ja-oriya/ba_da-oriya/ba_dha-oriya/ba_ba-oriya/ma_pa-oriya/ma_pha-oriya/ma_ba-oriya/ma_bha-oriya ଡ"
 );
 axes = (
 {
@@ -1803,7 +1799,7 @@ width = 762;
 },
 {
 glyphname = "cha_oMatra-oriya";
-lastChange = "2023-10-30 08:10:05 +0000";
+lastChange = "2023-10-31 13:18:00 +0000";
 layers = (
 {
 anchors = (
@@ -2109,7 +2105,7 @@ nodes = (
 );
 },
 {
-pos = (1293,0);
+pos = (1273,0);
 ref = "aaMatra-oriya";
 }
 );
@@ -4811,7 +4807,7 @@ width = 881;
 },
 {
 glyphname = "ra_oMatra-oriya";
-lastChange = "2023-10-31 12:16:10 +0000";
+lastChange = "2023-10-31 13:17:33 +0000";
 layers = (
 {
 anchors = (
@@ -4934,7 +4930,7 @@ nodes = (
 );
 },
 {
-pos = (1173,0);
+pos = (1171,0);
 ref = "aaMatra-oriya";
 },
 {
@@ -5234,7 +5230,7 @@ width = 738;
 },
 {
 glyphname = "la_aaMatra-oriya";
-lastChange = "2023-10-31 12:15:57 +0000";
+lastChange = "2023-10-31 13:17:17 +0000";
 layers = (
 {
 anchors = (
@@ -5420,7 +5416,7 @@ nodes = (
 );
 },
 {
-pos = (661,0);
+pos = (657,0);
 ref = "aaMatra-oriya";
 },
 {
@@ -5458,7 +5454,7 @@ width = 849;
 },
 {
 glyphname = "la_iiMatra-oriya";
-lastChange = "2023-10-30 17:09:04 +0000";
+lastChange = "2023-10-31 13:17:23 +0000";
 layers = (
 {
 anchors = (
@@ -5644,7 +5640,7 @@ nodes = (
 );
 },
 {
-pos = (646,0);
+pos = (641,0);
 ref = "iiMatra-oriya";
 },
 {
@@ -5667,7 +5663,7 @@ width = 961;
 },
 {
 glyphname = "la_oMatra-oriya";
-lastChange = "2023-10-31 12:17:13 +0000";
+lastChange = "2023-10-31 13:18:33 +0000";
 layers = (
 {
 anchors = (
@@ -5827,7 +5823,7 @@ nodes = (
 );
 },
 {
-pos = (1296,0);
+pos = (1297,0);
 ref = "aaMatra-oriya";
 },
 {
@@ -20576,7 +20572,7 @@ metricRight = "cha-oriya";
 },
 {
 glyphname = "ja_ja-oriya";
-lastChange = "2023-10-31 12:28:57 +0000";
+lastChange = "2023-10-31 13:20:55 +0000";
 layers = (
 {
 anchors = (
@@ -20611,15 +20607,70 @@ shapes = (
 ref = "ja-oriya";
 },
 {
-pos = (221,17);
-ref = "ja-oriya.below";
+closed = 1;
+nodes = (
+(611,-121,l),
+(678,-121,l),
+(678,-31,l),
+(663,-31,o),
+(625,-31,o),
+(611,-31,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(734,-228,l),
+(808,-228,l),
+(808,-9,l),
+(734,-9,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(611,-119,l),
+(611,-142,o),
+(591,-161,o),
+(568,-161,c),
+(544,-161,o),
+(525,-142,o),
+(525,-119,cs),
+(525,-95,o),
+(544,-76,o),
+(568,-76,cs),
+(568,-76,o),
+(568,-53,o),
+(568,-53,c),
+(568,-9,l),
+(568,-9,o),
+(568,-9,o),
+(568,-9,cs),
+(507,-9,o),
+(458,-58,o),
+(458,-119,cs),
+(458,-179,o),
+(507,-228,o),
+(568,-228,cs),
+(628,-228,o),
+(678,-179,o),
+(678,-119,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(734,-70,l),
+(734,-9,l),
+(611,-31,l),
+(611,-92,l)
+);
 }
 );
-width = 720;
+width = 778;
 }
 );
 metricLeft = "ja-oriya";
-metricRight = "ja-oriya";
 },
 {
 glyphname = "ja_jha-oriya";
@@ -22637,7 +22688,7 @@ metricRight = "sha-oriya";
 },
 {
 glyphname = "nna_nna-oriya";
-lastChange = "2023-10-31 02:56:25 +0000";
+lastChange = "2023-10-31 13:20:14 +0000";
 layers = (
 {
 anchors = (
@@ -22934,11 +22985,10 @@ nodes = (
 );
 }
 );
-width = 859;
+width = 819;
 }
 );
 metricLeft = "nna-oriya";
-metricRight = "nna-oriya";
 },
 {
 glyphname = "ta_ka-oriya";
@@ -23818,7 +23868,7 @@ width = 722;
 },
 {
 glyphname = "da_ba-oriya";
-lastChange = "2023-10-31 02:58:29 +0000";
+lastChange = "2023-10-31 13:19:58 +0000";
 layers = (
 {
 anchors = (
@@ -23924,11 +23974,9 @@ nodes = (
 ref = "ba-oriya.base";
 }
 );
-width = 765;
+width = 735;
 }
 );
-metricLeft = "da-oriya";
-metricRight = "ba-oriya";
 },
 {
 glyphname = "da_bha-oriya";
