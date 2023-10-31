@@ -25,4 +25,5 @@ You can test in Hibizcus app (MacOS), adobe photoshop or any app.
 
 ## License 
 Completely open source under MIT. 
-Note: Please attribute to the author to support the open source community.
+
+### Note: Please attribute to the author to support the open source community.
