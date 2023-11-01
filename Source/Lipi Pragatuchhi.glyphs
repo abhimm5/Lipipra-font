@@ -4,16 +4,7 @@
 DisplayStrings = (
 "/ka_ka-oriya/ka_tta-oriya/ka_ta-oriya/ka_ssa-oriya/ka_sa-oriya/ga_ga-oriya/ga_da-oriya/ga_dha-oriya/nga_ka-oriya/nga_kha-oriya/nga_ga-oriya/nga_gha-oriya/ca_ca-oriya/ca_cha-oriya/ca_nya-oriya/ja_ja-oriya/ja_jha-oriya/ja_nya-oriya/nya_ca-oriya/nya_cha-oriya/nya_ja-oriya/nya_jha-oriya/tta_tta-oriya/nna_tta-oriya/nna_ttha-oriya/nna_dda-oriya/nna_nna-oriya/ta_ka-oriya  /ta_tha-oriya/ta_pa-oriya/ta_sa-oriya/da_ga-oriya/da_gha-oriya/da_da-oriya/da_dha-oriya/da_ba-oriya/da_bha-oriya/da_ya-oriya/na_ta-oriya/na_tha-oriya/na_da-oriya/na_dha-oriya/pa_ta-oriya/pa_pa-oriya/pa_sa-oriya/ba_ja-oriya/ba_da-oriya/ba_dha-oriya/ba_ba-oriya/ma_pa-oriya/ma_pha-oriya/ma_ba-oriya/ma_bha-oriya ଡହ",
 "ହ",
-"ଜ",
-"ଗ",
-"ଯଷହ/ka_ssa-oriya",
-"ପପଯଷହ/ka_ssa-oriya/na_da-oriya",
-"ନ",
-"/ta_sa-oriya",
-"ଁ",
-"୰",
-"/ta_ta-oriya",
-"ଭ"
+"/reph-oriya"
 );
 axes = (
 {
@@ -357,6 +348,11 @@ sub halant-oriya ha-oriya by ha-oriya.below;
 sub halant-oriya wa-oriya by va-oriya.below;
 sub ra-oriya halant-oriya bha-oriya' uMatra-oriya' by bha_uMatra-oriya;";
 tag = cjct;
+},
+{
+code = "sub iMatra-oriya candraBindu-oriya by reph-oriya.002;
+";
+tag = abvs;
 }
 );
 fontMaster = (
@@ -16699,7 +16695,7 @@ width = 600;
 },
 {
 glyphname = "ha-oriya";
-lastChange = "2023-11-01 10:26:17 +0000";
+lastChange = "2023-11-01 17:17:34 +0000";
 layers = (
 {
 anchors = (
@@ -16830,8 +16826,8 @@ closed = 1;
 nodes = (
 (181,-36,l),
 (98,-80,l),
-(503,-255,l),
-(536,-182,l)
+(373,-195,l),
+(406,-122,l)
 );
 },
 {
@@ -28670,7 +28666,7 @@ unicode = 2928;
 },
 {
 glyphname = "candraBindu-oriya";
-lastChange = "2023-11-01 11:03:25 +0000";
+lastChange = "2023-11-01 17:01:13 +0000";
 layers = (
 {
 anchors = (
@@ -28722,122 +28718,6 @@ nodes = (
 (196,868,o),
 (226,868,cs)
 );
-},
-{
-closed = 1;
-nodes = (
-(227,389,l),
-(121,388,o),
-(35,301,o),
-(35,194,cs),
-(35,88,o),
-(141,1,o),
-(247,0,c),
-(247,76,l),
-(184,83,o),
-(113,131,o),
-(113,194,cs),
-(113,258,o),
-(164,310,o),
-(227,311,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(387,700,l),
-(387,700,o),
-(257,700,o),
-(257,700,cs),
-(257,700,o),
-(248,700,o),
-(224,700,cs),
-(117,700,o),
-(30,613,o),
-(30,505,cs),
-(30,398,o),
-(117,311,o),
-(224,311,cs),
-(242,311,o),
-(225,311,o),
-(225,311,c),
-(225,389,l),
-(225,389,o),
-(232,389,o),
-(224,389,cs),
-(160,389,o),
-(108,441,o),
-(108,505,cs),
-(108,570,o),
-(160,622,o),
-(224,622,cs),
-(289,622,o),
-(257,622,o),
-(257,622,cs),
-(257,622,o),
-(387,622,o),
-(387,622,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,396,o),
-(349,400,o),
-(373,406,cs),
-(398,413,o),
-(425,391,o),
-(432,368,c),
-(438,342,o),
-(423,303,o),
-(396,297,cs),
-(374,289,o),
-(334,283,o),
-(298,272,cs),
-(298,272,o),
-(298,272,o),
-(298,272,c),
-(319,195,l),
-(319,195,o),
-(319,195,o),
-(319,195,cs),
-(384,211,o),
-(332,198,o),
-(418,221,cs),
-(483,239,o),
-(524,320,o),
-(507,387,c),
-(490,453,o),
-(420,500,o),
-(353,482,cs),
-(263,458,o),
-(353,483,o),
-(255,455,c),
-(275,381,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(394,254,l),
-(462,231,o),
-(458,173,o),
-(430,127,cs),
-(395,70,o),
-(278,70,o),
-(220,82,c),
-(187,11,l),
-(283,-19,o),
-(448,1,o),
-(501,94,cs),
-(541,164,o),
-(541,272,o),
-(460,318,c)
-);
-},
-{
-pos = (-55,0);
-ref = right;
 }
 );
 width = 449;
@@ -28847,7 +28727,7 @@ unicode = 2817;
 },
 {
 glyphname = "reph-oriya";
-lastChange = "2023-10-28 16:54:51 +0000";
+lastChange = "2023-11-01 17:21:14 +0000";
 layers = (
 {
 layerId = m01;
@@ -28855,23 +28735,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-225,994,l),
-(-280,939,l),
-(-75,734,l),
-(-20,789,l)
+(-245,994,l),
+(-300,939,l),
+(-95,734,l),
+(-40,789,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(-225,994,l),
-(-225,916,l),
-(68,914,l),
-(68,991,l)
+(-245,994,l),
+(-245,916,l),
+(48,914,l),
+(48,991,l)
 );
 }
 );
-width = 178;
+width = 158;
 }
 );
 },
@@ -30915,13 +30795,13 @@ width = 600;
 },
 {
 glyphname = "tha-oriya.below";
-lastChange = "2023-10-31 04:02:10 +0000";
+lastChange = "2023-11-01 10:30:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (314,0);
+pos = (574,0);
 }
 );
 layerId = m01;
@@ -32748,6 +32628,64 @@ width = 600;
 );
 },
 {
+glyphname = "reph-oriya.002";
+lastChange = "2023-11-01 17:02:55 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (20,0);
+ref = "iMatra-oriya";
+},
+{
+closed = 1;
+nodes = (
+(327,1062,l),
+(295,1000,o),
+(298,922,o),
+(341,861,cs),
+(402,773,o),
+(524,752,o),
+(612,814,cs),
+(661,849,o),
+(689,901,o),
+(695,956,c),
+(616,971,l),
+(616,935,o),
+(599,900,o),
+(566,878,cs),
+(513,840,o),
+(442,853,o),
+(405,906,cs),
+(378,944,o),
+(376,990,o),
+(396,1027,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(531,931,o),
+(555,955,o),
+(555,984,cs),
+(555,1014,o),
+(531,1038,o),
+(502,1038,cs),
+(472,1038,o),
+(448,1014,o),
+(448,984,cs),
+(448,955,o),
+(472,931,o),
+(502,931,cs)
+);
+}
+);
+width = 600;
+}
+);
+},
+{
 glyphname = "uMatra-oriya.002";
 lastChange = "2023-10-28 04:08:17 +0000";
 layers = (
@@ -33547,7 +33485,7 @@ width = 600;
 },
 {
 glyphname = right;
-lastChange = "2023-10-24 16:10:19 +0000";
+lastChange = "2023-11-01 17:00:56 +0000";
 layers = (
 {
 layerId = m01;
