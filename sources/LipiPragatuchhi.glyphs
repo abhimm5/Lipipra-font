@@ -135,10 +135,15 @@ sub ga-oriya halant-oriya ga-oriya  by ga_ga-oriya;
 sub ga-oriya halant-oriya da-oriya  by ga_da-oriya;
 sub ga-oriya halant-oriya dha-oriya  by ga_dha-oriya;
 
-sub nga-oriya halant-oriya ka-oriya by nga_ka-oriya;
-sub nga-oriya halant-oriya kha-oriya by nga_kha-oriya;
-sub nga-oriya halant-oriya ga-oriya by nga_ga-oriya;
-sub nga-oriya halant-oriya gha-oriya by nga_gha-oriya;
+sub nna-oriya halant-oriya ka-oriya by nga_ka-oriya;
+sub nna-oriya halant-oriya kha-oriya by nga_kha-oriya;
+sub nna-oriya halant-oriya ga-oriya by nga_ga-oriya;
+sub nna-oriya halant-oriya gha-oriya by nga_gha-oriya;
+
+sub na-oriya halant-oriya ka-oriya by nga_ka-oriya;
+sub na-oriya halant-oriya kha-oriya by nga_kha-oriya;
+sub na-oriya halant-oriya ga-oriya by nga_ga-oriya;
+sub na-oriya halant-oriya gha-oriya by nga_gha-oriya;
 
 sub ca-oriya halant-oriya ca-oriya by ca_ca-oriya;
 sub ca-oriya halant-oriya cha-oriya by ca_cha-oriya;
