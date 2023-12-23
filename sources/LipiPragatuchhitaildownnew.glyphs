@@ -2,12 +2,13 @@
 .appVersion = "3135";
 .formatVersion = 3;
 DisplayStrings = (
-"/kha_iMatra-oriya/ca_aaMatra-oriya/ca_oMatra-oriya/tha_iMatra-oriya/dha_iMatra-oriya/ra_aaMatra-oriya/ra_iiMatra-oriya/ra_oMatra-oriya/la_aaMatra-oriya/la_iiMatra-oriya/la_oMatra-oriya/ma_bha-oriya    
+"/kha_iMatra-oriya/ca_aaMatra-oriya/ca_oMatra-oriya/tha_iMatra-oriya/dha_iMatra-oriya/ra_aaMatra-oriya/ra_iiMatra-oriya/ra_oMatra-oriya/la_aaMatra-oriya/la_iiMatra-oriya/la_oMatra-oriya/ma_bha-oriya  ଚି  
 
-ଅଭିନାଶ ମାଝୀ ରୋଶନ ରାଉରେକଲା
+ଅଭିନାଶ ମାଝୀ ରୋଶନ ରାଉରେକଲା ଭିନିକିବିତି 
 ଭଗବତଗୀତା
 ରସଗୋଲା 
 ମୀ
+ଆସଛ ଜାଉଛ ପକରଛ କଉଠ ନଉଛ
 ସେମାନଙ୍କଠାରେ  
  
 
@@ -25,7 +26,9 @@ EWTEWT
  ddhtyhtdhfhW",
 "˳@&¶§©®™℅°|¦†ℓ‡№¢¤$€₤₺₼₦₧₱₽₨₹₪£₩¥+×÷=><±~¬^µ%‰",
 "⁄",
-"ଅଆଇଈଉଊଋୠଌୡଏଐଓଔ"
+"ଅଆଇଈଉଊଋୠଌୡଏଐଓଔ",
+"/na_da-oriya",
+"ଦହ"
 );
 axes = (
 {
@@ -99,14 +102,6 @@ featurePrefixes = (
 code = "languagesystem ory2 dflt;
 ";
 name = Languagesystems;
-},
-{
-code = "";
-name = unnamed;
-},
-{
-code = "";
-name = unnamed;
 }
 );
 features = (
@@ -365,7 +360,7 @@ code = "sub kha-oriya iMatra-oriya  by  kha_iMatra-oriya;
 sub nga-oriya iMatra-oriya  by  nga_iMatra-oriya;
 sub ca-oriya aaMatra-oriya  by  ca_aaMatra-oriya;
 sub ca-oriya oMatra-oriya  by  ca_oMatra-oriya;
-sub ca-oriya iMatra-oriya  by  ca_aaMatra-oriya;
+sub ca-oriya iMatra-oriya  by  ca_iMatra-oriya;
 sub cha-oriya oMatra-oriya  by  cha_oMatra-oriya;
 sub ja-oriya iMatra-oriya  by  ja_iMatra-oriya;
 sub dda-oriya iMatra-oriya  by  dda_iMatra-oriya;
@@ -376,6 +371,7 @@ sub da-oriya iMatra-oriya  by  da_iMatra-oriya;
 sub dha-oriya iMatra-oriya  by  dha_iMatra-oriya;
 sub na-oriya iMatra-oriya  by  na_iMatra-oriya;
 sub bha-oriya aaMatra-oriya by bha_aaMatra-oriya;
+sub ba-oriya iMatra-oriya by ba_iMatra-oriya;
 sub bha-oriya iMatra-oriya  by  bha_iMatra-oriya;
 sub ra-oriya aaMatra-oriya  by  ra_aaMatra-oriya;
 sub ra-oriya iMatra-oriya  by  ra_iMatra-oriya;
@@ -15752,7 +15748,7 @@ closed = 1;
 nodes = (
 (459,0,l),
 (537,0,l),
-(537,314,l),
+(537,388,l),
 (459,388,l)
 );
 },
