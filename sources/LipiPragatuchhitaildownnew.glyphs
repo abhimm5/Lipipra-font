@@ -4,7 +4,7 @@
 DisplayStrings = (
 "/kha_iMatra-oriya/ca_aaMatra-oriya/ca_oMatra-oriya/tha_iMatra-oriya/dha_iMatra-oriya/ra_aaMatra-oriya/ra_iiMatra-oriya/ra_oMatra-oriya/la_aaMatra-oriya/la_iiMatra-oriya/la_oMatra-oriya/ma_bha-oriya  ଚି  
 
-ଅଭିନାଶ ମାଝୀ ରୋଶନ ରାଉରେକଲା ଭିନିକିବିତି 
+ଅଭିନାଶ ମାଝୀ ରୋଶନ ରାଉରେକଲା ଭିନିକିବିତି ସନ୍ଗମ
 ଭଗବତଗୀତା
 ରସଗୋଲା 
 ମୀ
@@ -28,7 +28,10 @@ EWTEWT
 "⁄",
 "ଅଆଇଈଉଊଋୠଌୡଏଐଓଔ",
 "/na_da-oriya",
-"ଦହ"
+"ଦହ",
+"/nga_kha-oriya",
+"/nga_ga-oriya",
+"/nga_kha-oriya/nga_ga-oriya/nga_gha-oriya"
 );
 axes = (
 {
@@ -21505,7 +21508,7 @@ nodes = (
 );
 }
 );
-width = 991;
+width = 911;
 },
 {
 associatedMasterId = m01;
@@ -21622,7 +21625,7 @@ nodes = (
 );
 }
 );
-width = 941;
+width = 881;
 }
 );
 },
@@ -21772,7 +21775,7 @@ nodes = (
 );
 }
 );
-width = 844;
+width = 784;
 }
 );
 },
