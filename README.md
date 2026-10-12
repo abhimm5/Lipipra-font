@@ -4,7 +4,7 @@ It is based on OTFv2 (ory2) with many unique features.
 
 ## Preview
 
-![Lipi Pragatuchhi Screenshot](documentation/screenshot.png)
+![Lipi Pragatuchhi Screenshot](documentation/Screenshot.png)
 
 ### Usage
 1. Download from release.
